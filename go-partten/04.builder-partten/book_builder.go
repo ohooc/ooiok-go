@@ -1,5 +1,7 @@
 package builder_partten
 
+// go 创建者模式
+
 type BookBuilder struct {
 	id    int
 	name  string
